@@ -1,0 +1,48 @@
+{
+  "color" : [ {
+    "name" : "start_window_background",
+    "value" : "#FFFFFF"
+  }, {
+    "name" : "app_icon_color",
+    "value" : "#BDBDBD"
+  }, {
+    "name" : "app_icon_pressed_color",
+    "value" : "#9E9E9E"
+  }, {
+    "name" : "page_bg_color",
+    "value" : "#F5F5F5"
+  }, {
+    "name" : "page_title_font_color",
+    "value" : "#616161"
+  }, {
+    "name" : "module_bg_color",
+    "value" : "#EEEEEE"
+  }, {
+    "name" : "module_title_font_color",
+    "value" : "#757575"
+  }, {
+    "name" : "module_icon_color",
+    "value" : "#9E9E9E"
+  }, {
+    "name" : "module_item_bg_color",
+    "value" : "#F2F2F2"
+  }, {
+    "name" : "content_main_title_font_color",
+    "value" : "#616161"
+  }, {
+    "name" : "content_sub_title_font_color",
+    "value" : "#757575"
+  }, {
+    "name" : "content_label_font_color",
+    "value" : "#9E9E9E"
+  }, {
+    "name" : "content_font_color",
+    "value" : "#000000"
+  }, {
+    "name" : "button_bg_color",
+    "value" : "#757575"
+  }, {
+    "name" : "button_font_color",
+    "value" : "#FFFFFF"
+  } ]
+}
