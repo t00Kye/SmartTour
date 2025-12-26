@@ -6,11 +6,16 @@
 
 本项目在开发过程中使用了以下 AI 辅助开发工具：
 
-- **主要工具**: Cursor AI / GitHub Copilot / ChatGPT
+- **主要工具**: CodeGenie / Cursor AI / ChatGPT
 - **工具版本**: 最新版本
-- **使用时间**: 2024年
 
 ### 1.2 AI 工具配置
+
+#### DevEco Studio 内置 AI 配置
+- 编辑器: DevEco Studio (基于 IntelliJ IDEA)
+- AI 模型: 内置智能代码助手（类似 GPT 系列）
+- 代码补全: 启用
+- 代码生成: 启用
 
 #### Cursor AI 配置
 - 编辑器: Cursor IDE
@@ -22,6 +27,7 @@
 - IDE 插件: GitHub Copilot
 - 订阅类型: Individual / Student
 - 代码建议: 启用
+
 
 ## 二、AI 生成代码的提示词
 
@@ -270,14 +276,6 @@
 4. **工具函数**: 使用 AI 生成通用工具函数
 5. **代码优化**: 使用 AI 建议优化代码
 
-### 5.3 人工参与度
-
-- **架构设计**: 100% 人工
-- **业务逻辑**: 80% 人工，20% AI 辅助
-- **UI 实现**: 40% 人工，60% AI 生成
-- **代码优化**: 30% 人工，70% AI 辅助
-- **测试调试**: 100% 人工
-
 ## 六、总结
 
 本项目在开发过程中充分利用了 AI 辅助开发工具，大大提高了开发效率。AI 工具主要用于：
@@ -293,5 +291,5 @@
 
 **文档版本**: 1.0  
 **最后更新**: 2025年  
-**AI 工具**: Cursor AI / GitHub Copilot / ChatGPT
+**AI 工具**: CodeGenie / Cursor AI / ChatGPT
 
